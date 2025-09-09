@@ -2,7 +2,7 @@
 Je suis **Mathurin kouamé yao**
 
 **DEVELOPPEUR WEB JUNIOR** 
-Passionné la créeation des Application Web moderne et intuitives.
+Passionné par la créeation des Application Web moderne et intuitives.
 Basé à **Abidjan, Côte D'Ivoire**
 Actuellement en Formation Pour devenir **Développeur Fullstack**
 
