@@ -43,7 +43,7 @@ Actuellement en Formation Pour devenir **Développeur Fullstack**
 ---
 
 ## 📌 Projets
-- **Portfolio** – Mon site personnel pour mettre en avant mes réalisations
+- **Portfolio** – Mon site personnel pour mettre en avant mes réalisations(en production)
 
 ## 🎯 Objectifs
 
