@@ -1,4 +1,4 @@
-# Salut 👋,
+# Salut 👋
 Je suis **Mathurin kouamé yao**
 
 **DEVELOPPEUR WEB JUNIOR** 
