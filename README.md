@@ -4,7 +4,7 @@ Je suis **Mathurin kouamé yao**
 **DEVELOPPEUR WEB JUNIOR** 
 Passionné par la créeation des sites web, des Applications Web moderne et la sécurité web.
 Basé à **Abidjan, Côte D'Ivoire**
-Actuellement en Formation Pour devenir **Développeur Fullstack**
+Actuellement en Formation Pour devenir **Développeur Fullstack + Devops**
 
 ---
 
@@ -26,6 +26,7 @@ Actuellement en Formation Pour devenir **Développeur Fullstack**
 ### 🗄️ Base de données  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 🔐 Sécurité Web  
 ![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
